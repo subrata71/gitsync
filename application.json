@@ -15,9 +15,6 @@
       "uidString": "supabase_https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.1.0/dist/umd/supabase.min.js"
     },
     {
-      "uidString": "AnalyticsNext___SEGMENT_INSPECTOR___webpackChunk_segment_analytics_next_https://cdn.jsdelivr.net/npm/@segment/analytics-next@1.46.1/dist/umd/index.js"
-    },
-    {
       "uidString": "mixpanel_onload_https://cdn.jsdelivr.net/npm/mixpanel-browser@2.45.0/dist/mixpanel.umd.js"
     },
     {
